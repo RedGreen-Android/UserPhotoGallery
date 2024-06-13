@@ -1,6 +1,6 @@
 # App displays various Artist, photo collections, and more 
-### Find each photogrpahers gallery of portraits in "Screen 1" and information such as bio, location, description, likes, contacts, collection of author, portoflio, main pic, and more in "Sceen 2"
-## Tech stack - Jetpack COMPOSE, Stateflows, flows, Sharedflows, events, mapper, MVVM viewmodel, Coroutine, HILT Retrofit, States/Error states, Coil for image 
+### Find each photographer portrait gallery in "Screen 1" & information such as bio, location, description, likes, contacts, portoflio, main pic, and more in "Screen 2"
+## Tech- Jetpack COMPOSE, Stateflows, flows, Sharedflows, events, mapper, MVVM viewmodel, Coroutine, HILT, Retrofit, States, Coil for image 
 
 
 ![Screen1](https://github.com/RedGreen-Android/UserPhotoGallery/assets/83381250/8f7d3ca6-bb5e-4bb8-b463-8c8c1132f00b)
