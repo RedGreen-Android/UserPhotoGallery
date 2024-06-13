@@ -4,7 +4,8 @@
 
 
 ![Screen1](https://github.com/RedGreen-Android/UserPhotoGallery/assets/83381250/8f7d3ca6-bb5e-4bb8-b463-8c8c1132f00b)
-![Screen2](https://github.com/RedGreen-Android/UserPhotoGallery/assets/83381250/0b9300bc-d359-42ae-8699-eb775d7c68ad)
+![Screen2](https://github.com/RedGreen-Android/UserPhotoGallery/assets/83381250/54718d84-2fad-414b-8263-923c16f33536)
+
 
 Screen 1: List of all the photo gallery of various photographers with details
 Screen 2: Once you click on item, indepth information about the Artist responsible for the image 
