@@ -1,4 +1,4 @@
-# App displays various Artist, photo collections, info and more 
+# App displays various Artist, photo collections, and more 
 ### Find each photogrpahers gallery of portraits in "Screen 1" and information such as bio, location, description, likes, contacts, collection of author, portoflio, main pic, and more in "Sceen 2"
 ## Tech stack - Jetpack COMPOSE, Stateflows, flows, Sharedflows, events, mapper, MVVM viewmodel, Coroutine, HILT Retrofit, States/Error states, Coil for image 
 
